@@ -1,7 +1,7 @@
 /* header common*/
 .header {
 	padding: 40px 0px 30px;
-	background-color: #1E1E1E;
+	background-color: #000000;
 	color: #ffff;
 }
 
@@ -115,8 +115,8 @@
 	
 }
 
-.header__burger:before,
-.header__burger:after {
+.header__burger::before,
+.header__burger::after {
 	content: '';
 	background-color: #ffff;
 	position: absolute;
@@ -125,11 +125,11 @@
 	left: 0;
 }
 
-.header__burger:before {
+.header__burger::before {
 	top: 0;
 }
 
-.header__burger:after {
+.header__burger::after {
 	bottom: 0;
 }
 
