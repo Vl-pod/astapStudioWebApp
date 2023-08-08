@@ -1,0 +1,136 @@
+/* header common*/
+.header {
+	padding: 40px 0px 30px;
+	background-color: #1E1E1E;
+	color: #ffff;
+}
+
+.header__row {
+	display: flex;
+	column-gap: 15px;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.header__row > :first-child {
+	margin-right: auto;
+  }
+
+/*logo*/
+.header__logo {
+	display: flex;
+	align-items: center;
+	column-gap: 5px;
+}
+
+.header__logo span {
+	font-family: MersadBlack;
+	font-size: 9px;
+	margin-top: 3px;
+}
+
+/*Language button*/
+.language__button {
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: contain; 
+	background-position: center;
+	border-radius: 50%; 
+	font-size: 7px;
+	cursor: pointer;
+  
+	width: 19.5px;
+	height: 19.5px;
+	padding: 0; 
+	position: relative;
+  }
+  
+.language__button::before {
+	content: ""; 
+	display: block;
+	width: 100%;
+	height: 100%;
+	background-image: url("./../../img/icons/LangBtn.svg");
+	padding: 0; 
+	
+}
+
+.language__button-text {
+	color: #ffff;
+	font-family: Inter;
+	position: absolute;
+	top: 5.4px;
+	left: 6px;
+}
+
+/*Contacts button*/
+.contacts__button {
+	background-color: transparent;
+	background-repeat: no-repeat;
+	background-size: contain; 
+	background-position: center;
+	border-radius: 50%; 
+	font-size: 7px;
+	cursor: pointer;
+  
+	width: 73px;
+	height: 18px;
+	padding: 0; 
+	position: relative;
+  }
+  
+.contacts__button::before {
+	content: ""; 
+	display: block;
+	width: 101%;
+	height: 101%;
+	background-image: url("./../../img/icons/ContactsBtn.svg");
+	padding: 0; 
+}
+
+.contacts__button-text {
+	color: #ffff;
+	font-family: MersadExtraBold;
+	font-size: 5px;
+	position: absolute;
+	top: 7.5px;
+	left: 30px;
+}
+
+/*Burger menu*/
+.header__burger {
+	display: block;
+	position: relative;
+	width: 15px;
+	height: 14px;
+}
+
+.header__burger span {
+	position: absolute;
+	background-color: #ffff;
+	width: 100%;
+	height: 2px;
+	left: 0;
+	top: 6px;
+	
+}
+
+.header__burger:before,
+.header__burger:after {
+	content: '';
+	background-color: #ffff;
+	position: absolute;
+	width: 100%;
+	height: 2px;
+	left: 0;
+}
+
+.header__burger:before {
+	top: 0;
+}
+
+.header__burger:after {
+	bottom: 0;
+}
+
+/*header menu*/
