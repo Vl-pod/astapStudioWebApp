@@ -1,0 +1,89 @@
+.promo {
+	background-color: #000000;;
+}
+
+.promo__content {
+	border-radius: 25px;
+	border: 1px solid #FFF;
+	background: #FFF;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+.promo__head--text {
+	padding-top: 24px;
+	margin-bottom: 28px;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+.up__line--text {
+	font-family: MersadBold;
+	font-size: 9px;
+	line-height: 12px;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+.up__line--text span {
+	color: #747474;
+}
+
+.head__line {
+	position: absolute;
+	background-color: #000000;
+	width: 100%;
+	height: 1px;
+	bottom: 15px;
+}
+
+.promo__head--text > :last-child {
+	margin-left: auto;
+}
+
+.under__line--text {
+	margin-top: 15px;
+	font-family: MersadRegular;
+	text-transform: uppercase;
+	font-size: 7px;
+}
+
+.under__line--text span {
+	color: #747474;
+}
+
+
+.promo__content h1 {
+	margin: 0 auto;
+	font-family: MersadExtLt;
+	font-size: 36px;
+}
+
+
+.promo__image {
+	width: 100%;
+	height: 35em;
+	background-image: url("./../../img/pictures/AstapMainPhoto.png");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+
+.promo__content > :last-child {
+	margin-top: 16px;
+}
+
+.promo__button {
+	width: 155px;
+	height: 155px;
+	border-radius: 50%;
+	background-color: #1000CE;
+	font-family: MersadBlack;
+	color: #FFF;
+	text-transform: uppercase;
+	position: absolute;
+	bottom: 74px;
+	left: 110px;
+}
+

@@ -5,8 +5,8 @@ import './Header__mobile.css'
 function Header () {
 	return (
 		<header className="header">
-			<div className="container">
-				<div className="header__row">
+			<div className="wrapper">
+				<div className="header__row container">
 					<div className="header__logo">
 						<img className="header__logo-img" src={logoImg} alt="Logo" />
 						<span>ASTAP STUDIO</span>
