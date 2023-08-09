@@ -1,0 +1,72 @@
+.advantages {
+	width: 100%;
+	height: 270px;
+	border: 1px solid red;
+	background-color: #000000;
+	padding: 18px 0;
+}
+
+.advantages__card {
+	border-radius: 25.278px;
+	background: #0018F4;
+	height: 234px;
+	color: #ffffff
+}
+
+.advantages__card-content {
+	display: flex;
+	height: 100%;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+
+.advantages__card-header, .advantages__card-footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+	column-gap: 15px;
+}
+
+.advantages__card-header {
+	padding: 30px 0 10px; 
+	border-bottom: 1px solid #ffffff;
+}
+
+.advantages__card-footer {
+	padding-bottom: 30px;
+} 
+
+.advantages__card-header h1 {
+	font-family: MersadSemiBold;
+	font-size: 20;
+	text-transform: uppercase;
+}
+
+.advantages__card-footer--text {
+	font-family: MersadMedium;
+	font-size: 16px;
+	line-height: 19.307px; 
+	text-transform: uppercase;
+	
+	height: 36px;
+}
+
+.advantages__card-footer--text span {
+	background-image: url("./../../img/icons/ArrowAdvantagesCard.svg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 10.039px;
+	height: 4px;
+	stroke-width: 0.772px;
+}
+
+
+.advantages__card-footer--icon {
+	background-image: url("./../../img/icons/AdvantCardWorld.svg");
+	width: 65px;
+	height: 65px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
