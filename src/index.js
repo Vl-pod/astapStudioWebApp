@@ -6,7 +6,6 @@ import './styles/fonts.css';
 import './styles/reset.css';
 import './styles/common.css';
 
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <App />
