@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3852028.css",
+    "main.js": "/static/js/main.1f6c9053.js",
+    "static/media/arialmt.ttf": "/static/media/arialmt.426f0efdd95731aa5930.ttf",
+    "static/media/arialmt.woff2": "/static/media/arialmt.2f06d009f5f28857ce09.woff2",
+    "static/media/arialmt.woff": "/static/media/arialmt.6b691e315c906de91602.woff",
+    "static/media/AstapMainPhoto.png": "/static/media/AstapMainPhoto.e0a8871b99169ead000e.png",
+    "static/media/RockStar-ExtraBold.ttf": "/static/media/RockStar-ExtraBold.17aba4eb4511c24de409.ttf",
+    "static/media/Mersad-ExtraLight.woff": "/static/media/Mersad-ExtraLight.1cbeef05f9d059efd600.woff",
+    "static/media/Mersad-SemiBold.woff": "/static/media/Mersad-SemiBold.23e95e87fb14a140b4f1.woff",
+    "static/media/Mersad-Medium.woff": "/static/media/Mersad-Medium.efb99955566495f44e98.woff",
+    "static/media/Mersad-ExtraBold.woff": "/static/media/Mersad-ExtraBold.9bd87e2007d2e02dd4af.woff",
+    "static/media/Mersad-Bold.woff": "/static/media/Mersad-Bold.3b40ed073adf58e1cc0b.woff",
+    "static/media/Mersad-Regular.woff": "/static/media/Mersad-Regular.c79406a4ccba50e223cb.woff",
+    "static/media/Mersad-Black.woff": "/static/media/Mersad-Black.431c577dce9a1147f19e.woff",
+    "static/media/RockStar-ExtraBold.woff": "/static/media/RockStar-ExtraBold.c0ab7dd24c9369b50a24.woff",
+    "static/media/Mersad-ExtraBold.woff2": "/static/media/Mersad-ExtraBold.96f8bc9ae2f2cba4bd4e.woff2",
+    "static/media/Mersad-SemiBold.woff2": "/static/media/Mersad-SemiBold.5004393ecf4426af16da.woff2",
+    "static/media/Mersad-Bold.woff2": "/static/media/Mersad-Bold.9f888d2377b7b0be64d1.woff2",
+    "static/media/Mersad-Medium.woff2": "/static/media/Mersad-Medium.45c4c4129e3139997077.woff2",
+    "static/media/Mersad-ExtraLight.woff2": "/static/media/Mersad-ExtraLight.32826a418be9dd3063e0.woff2",
+    "static/media/Mersad-Black.woff2": "/static/media/Mersad-Black.d3af5c28c90b840d530e.woff2",
+    "static/media/Mersad-Regular.woff2": "/static/media/Mersad-Regular.70bbb3dd5814ee1c1b53.woff2",
+    "static/media/RockStar-ExtraBold.woff2": "/static/media/RockStar-ExtraBold.bf2fd9eb5d35d0d2d6a8.woff2",
+    "static/media/AstapSide.png": "/static/media/AstapSide.f52891163b9ec1912142.png",
+    "static/media/Logo.svg": "/static/media/Logo.70011a43b5c3befca234b613a7e6ef19.svg",
+    "static/media/ContactsBtn.svg": "/static/media/ContactsBtn.ce3902c9c17b46b38a63.svg",
+    "static/media/AdvantCardWorld.svg": "/static/media/AdvantCardWorld.95abb18f834ed47c95da.svg",
+    "index.html": "/index.html",
+    "static/media/ArrowRegistrForm.svg": "/static/media/ArrowRegistrForm.4ad63843e3850240f534.svg",
+    "static/media/LangBtn.svg": "/static/media/LangBtn.1cbfde4535318a5b1dda.svg",
+    "static/media/ArrowAdvantagesCard.svg": "/static/media/ArrowAdvantagesCard.f18eae9c4230da8034cf.svg",
+    "main.a3852028.css.map": "/static/css/main.a3852028.css.map",
+    "main.1f6c9053.js.map": "/static/js/main.1f6c9053.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3852028.css",
+    "static/js/main.1f6c9053.js"
+  ]
+}
